@@ -1,8 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 mkdir
-=======
-mkdir -p
-
-
->>>>>>> 3deefd3cc2c5271b1d77ef9753bb01096400a940
